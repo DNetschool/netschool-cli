@@ -6,6 +6,18 @@
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>netschool</ToolCommandName>
     <PackageOutputPath>./nupkg</PackageOutputPath>
+    <PackageId>netschool.cli</PackageId>
+    <Version>1.0.0</Version>
+    <PackageTags>Netschool;cli;command;line;workshops;</PackageTags>
+    <Description>
+      Cliente de linea de comandos para los workshops de netschool 
+    </Description>
+    <!-- Copyright information -->
+    <copyright>Copyright ©2020 Netschool.io </copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/DNetschool/netschool-cli</RepositoryUrl>
+    
+   
   </PropertyGroup>
 
 </Project>
